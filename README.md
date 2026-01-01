@@ -1,56 +1,61 @@
 <!-- soheilsinai/soheilsinai/README.md -->
 
-<h1 align="center">Hi 👋, I'm Soheil Sinai</h1>
-<h3 align="center">A passionate Code Artisan from Iran 🇮🇷</h3>
-
-<p align="center">
-  <a href="https://laravel.com" target="_blank">
-    <img src="https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white" alt="Laravel 12" />
-  </a>
-  <a href="https://php.net" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?logo=php&logoColor=white" alt="PHP" />
-  </a>
-  <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </a>
-  <a href="https://git-scm.com" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github.com/soheilsinai/soheilsinai/assets/your-avatar-url" width="200" style="border-radius: 50%;" alt="Soheil Sinai"/>
+  <h1>Hi 👋, I'm Soheil Sinai</h1>
+  <p>A Code Artisan building scalable Laravel backends with clean Git history.</p>
+  <p>📍 Based in Iran | 🇮🇷 Persian-speaking developer</p>
+</div>
 
 ---
 
-### 🔧 Technologies & Tools
+## 🧑‍💻 About Me
 
-- **Backend**: Laravel 12, PHP, RESTful APIs, API Resources, Eloquent ORM
-- **Frontend**: Tailwind CSS, Vazirmatn (for Persian UI), HTML/CSS
-- **Tools**: Git, GitHub, VS Code, Go Live, macOS
-- **Practices**: Clean Code, Meaningful Commits, Git History Hygiene
+Full-stack enthusiast focused on backend development using **Laravel 12** and modern PHP practices.  
+I believe in writing maintainable, well-documented code — every commit tells a story.  
+Currently working on **[divar-backend](https://github.com/soheilsinai/divar-backend)** — a classified ads API with JWT auth and mobile verification.
 
----
-
-### 🚀 Featured Projects
-
-- **[divar-backend](https://github.com/soheilsinai/divar-backend)**  
-  A scalable backend for a classified ads platform built with Laravel 12.  
-  ✨ Features: JWT auth, mobile verification (no email), structured API responses, clean Git history.
+Feel free to reach out at: **soheil.sinai@example.com**
 
 ---
 
-### 📊 GitHub Stats
+## ⚙️ Tech Stack
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soheilsinai&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheilsinai&layout=compact&theme=radical" />
-</p>
+<div align="left">
 
-> ⚡ Stats powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+| Frameworks & Libraries | Tools & Platforms | Databases & Others |
+|------------------------|-------------------|--------------------|
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) | ![VS Code](https://img.shields.io/badge/VSCode-0078D4?logo=visualstudiocode&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white) | ![Vazirmatn](https://img.shields.io/badge/Vazirmatn-000000?logo=fontawesome&logoColor=white) |
+
+</div>
 
 ---
 
-### 📬 Get in Touch
+## 📊 GitHub Analytics
 
-- Location: Iran 🇮🇷  
-- Open to: Backend development, open-source collaboration, and clean code challenges!
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soheilsinai&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheilsinai&layout=compact&theme=dark" />
+</div>
 
-> 💬 Feel free to explore my repositories — every commit tells a story.
+> 📈 Powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🏆 Achievements
+
+- 💡 Clean Git History Advocate
+- 🌱 Building real-world projects like `divar-backend`
+- 🎯 Focused on meaningful commits and structured APIs
+
+---
+
+## 📬 Let's Connect
+
+- 📍 Location: Iran 🇮🇷
+- 📧 Email: soheil.sinai@example.com *(replace with your real email)*
+- 🔗 Portfolio: [Your Website] *(optional)*
+
+> 🤝 Open to collaboration, freelance work, or just sharing knowledge!
